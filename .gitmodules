@@ -1,0 +1,18 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/jesus-alfonso-moreno/server-tools.git
+[submodule "web"]
+	path = web
+	url = https://github.com/jesus-alfonso-moreno/web.git
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/jesus-alfonso-moreno/reporting-engine.git
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/jesus-alfonso-moreno/account-financial-tools.git
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/jesus-alfonso-moreno/sale-workflow.git
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-workflow.git
