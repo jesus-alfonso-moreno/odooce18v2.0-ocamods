@@ -121,3 +121,48 @@
 [submodule "mail"]
 	path = mail
 	url = https://github.com/jesus-alfonso-moreno/mail.git
+[submodule "hr-expense"]
+	path = hr-expense
+	url = https://github.com/jesus-alfonso-moreno/hr-expense.git
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/jesus-alfonso-moreno/management-system.git
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/jesus-alfonso-moreno/maintenance.git
+[submodule "hr"]
+	path = hr
+	url = https://github.com/jesus-alfonso-moreno/hr.git
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = https://github.com/jesus-alfonso-moreno/purchase-reporting.git
+[submodule "hr-holidays"]
+	path = hr-holidays
+	url = https://github.com/jesus-alfonso-moreno/hr-holidays.git
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/jesus-alfonso-moreno/manufacture-reporting.git
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/jesus-alfonso-moreno/report-print-send.git
+[submodule "bank-payment-alternative"]
+	path = bank-payment-alternative
+	url = https://github.com/jesus-alfonso-moreno/bank-payment-alternative.git
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/jesus-alfonso-moreno/geospatial.git
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = https://github.com/jesus-alfonso-moreno/margin-analysis.git
+[submodule "storage"]
+	path = storage
+	url = https://github.com/jesus-alfonso-moreno/storage.git
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/jesus-alfonso-moreno/community-data-files.git
+[submodule "mass-mailing"]
+	path = mass-mailing
+	url = https://github.com/jesus-alfonso-moreno/mass-mailing.git
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/jesus-alfonso-moreno/account-closing.git
