@@ -36,7 +36,7 @@ foreach ($repo in $repos) {
 if ($Fork -eq "1") {
     # Create fork under your account
     Write-Host "🔄 Creating fork..."
-    gh repo fork $url --org $GithubUser --clone=false --remote=false | Out-Null
+    gh repo fork $url --clone=false --remote=false | Out-Null
 }
     # Clone the fork
     $forkUrl = "https://github.com/$GithubUser/$name.git"

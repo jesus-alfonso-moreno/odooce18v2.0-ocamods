@@ -58,3 +58,66 @@
 [submodule "bank-statement-import"]
 	path = bank-statement-import
 	url = https://github.com/jesus-alfonso-moreno/bank-statement-import.git
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/jesus-alfonso-moreno/mis-builder.git
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/jesus-alfonso-moreno/account-analytic.git
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/jesus-alfonso-moreno/timesheet.git
+[submodule "project"]
+	path = project
+	url = https://github.com/jesus-alfonso-moreno/project.git
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-reporting.git
+[submodule "py3o.template"]
+	path = py3o.template
+	url = https://github.com/jesus-alfonso-moreno/py3o.template.git
+[submodule "pms"]
+	path = pms
+	url = https://github.com/jesus-alfonso-moreno/pms.git
+[submodule "survey"]
+	path = survey
+	url = https://github.com/jesus-alfonso-moreno/survey.git
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/jesus-alfonso-moreno/server-auth.git
+[submodule "stock-weighing"]
+	path = stock-weighing
+	url = https://github.com/jesus-alfonso-moreno/stock-weighing.git
+[submodule "dms"]
+	path = dms
+	url = https://github.com/jesus-alfonso-moreno/dms.git
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/jesus-alfonso-moreno/calendar.git
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/jesus-alfonso-moreno/partner-contact.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/jesus-alfonso-moreno/contract.git
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/jesus-alfonso-moreno/multi-company.git
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/jesus-alfonso-moreno/product-variant.git
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/jesus-alfonso-moreno/bank-payment.git
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/jesus-alfonso-moreno/helpdesk.git
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/jesus-alfonso-moreno/field-service.git
+[submodule "stock-logistics-availability"]
+	path = stock-logistics-availability
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-availability.git
+[submodule "mail"]
+	path = mail
+	url = https://github.com/jesus-alfonso-moreno/mail.git
