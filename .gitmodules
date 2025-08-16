@@ -16,3 +16,12 @@
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = https://github.com/jesus-alfonso-moreno/stock-logistics-workflow.git
+[submodule "product-atribute"]
+	path = product-atribute
+	url = https://github.com/jesus-alfonso-moreno/product-attribute.git
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/jesus-alfonso-moreno/manufacture.git
+[submodule "crm"]
+	path = crm
+	url = https://github.com/jesus-alfonso-moreno/crm.git
