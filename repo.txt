@@ -1,0 +1,11 @@
+repo_url
+https://github.com/jesus-alfonso-moreno/stock-logistics-orderpoint,
+https://github.com/jesus-alfonso-moreno/stock-logistics-tracking,
+https://github.com/jesus-alfonso-moreno/stock-logistics-reservation,
+https://github.com/jesus-alfonso-moreno/server-backend,
+https://github.com/jesus-alfonso-moreno/server-ux,
+https://github.com/jesus-alfonso-moreno/account-reconcile,
+https://github.com/jesus-alfonso-moreno/account-payment,
+https://github.com/jesus-alfonso-moreno/credit-control,
+https://github.com/jesus-alfonso-moreno/account-invoicing,
+https://github.com/jesus-alfonso-moreno/bank-statement-import,

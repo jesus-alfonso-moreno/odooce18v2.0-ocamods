@@ -25,3 +25,36 @@
 [submodule "crm"]
 	path = crm
 	url = https://github.com/jesus-alfonso-moreno/crm.git
+[submodule "payroll"]
+	path = payroll
+	url = https://github.com/jesus-alfonso-moreno/payroll.git
+[submodule "stock-logistics-orderpoint"]
+	path = stock-logistics-orderpoint
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-orderpoint.git
+[submodule "stock-logistics-tracking"]
+	path = stock-logistics-tracking
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-tracking.git
+[submodule "stock-logistics-reservation"]
+	path = stock-logistics-reservation
+	url = https://github.com/jesus-alfonso-moreno/stock-logistics-reservation.git
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/jesus-alfonso-moreno/server-backend.git
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/jesus-alfonso-moreno/server-ux.git
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = https://github.com/jesus-alfonso-moreno/account-reconcile.git
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/jesus-alfonso-moreno/account-payment.git
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/jesus-alfonso-moreno/credit-control.git
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/jesus-alfonso-moreno/account-invoicing.git
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/jesus-alfonso-moreno/bank-statement-import.git
